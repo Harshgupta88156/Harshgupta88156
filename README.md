@@ -83,10 +83,6 @@ I’m **Harsh Gupta**, a passionate **Java Spring Boot & React developer** who l
 
 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Harshgupta88156/Harshgupta88156/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
 ---
 
 ## 🌐 Connect with Me
