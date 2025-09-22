@@ -28,6 +28,24 @@ I’m **Harsh Gupta**, a passionate **Java Spring Boot & React developer** who l
   Percentage: 91.8%
 
 ---
+
+
+
+
+## 🏆 Achievements
+
+- 🌟 Selected as a **Contributor at [GSSoC '24 Extended](https://drive.google.com/file/d/1FO1Pagg0RuNJ68hzqp46x8IYsjoTqfSV/view)**  
+- 🥇 Runner Up of [ FlutterFlow Hackathon ](https://www.linkedin.com/posts/som-dwivedi-34bb30346_flutterflow-hackathon-innovation-activity-7294825945687842817-FHtP?utm_source=share&utm_medium=member_desktop&rcm=ACoAADz6_LABtMU-KeMAPXF3veujPNuyZbSUglY) (Tech stack: Flutter, FlutterFlow)  
+- 🥈  100 Days Badge  [ Leetcode ](https://drive.google.com/file/d/1a7xykixR35l_6GPefzaZvbJoV61tScKz/view)  
+
+
+
+
+
+
+
+
+
 # 🎨 Tech Stack
 
 ## 💻 Programming Languages
