@@ -77,7 +77,7 @@ I’m **Harsh Gupta**, a passionate **Java Spring Boot & React developer** who l
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="https://https://harsh-gupta-personal-portfolio.netlify.app/">
+  <a href="https://harsh-gupta-personal-portfolio.netlify.app/">
   <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
