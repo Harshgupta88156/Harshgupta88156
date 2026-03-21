@@ -21,7 +21,7 @@ I’m **Harsh Gupta**, a passionate **Java Spring Boot & React developer** who l
 
 - **B.Tech in Computer Science**  
   IET DAVV INDORE, 2023 – 2027  
-  CGPA - 8.485 
+  CGPA - 8.58 
 
 - **Senior Secondary (12th Grade)**  
   Robertson Convent Hr. Sec. School, 2022  
